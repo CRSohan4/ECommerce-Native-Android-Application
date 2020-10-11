@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "801723447148",
+    "firebase_url": "https://egshopping-cacdd.firebaseio.com",
+    "project_id": "egshopping-cacdd",
+    "storage_bucket": "egshopping-cacdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801723447148:android:36f943e2a86acc9dc4e549",
+        "android_client_info": {
+          "package_name": "com.outfit.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801723447148-4ibi2plj6gck2ue4t9ipdnkpj4n3557j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.outfit.user",
+            "certificate_hash": "109872705a189eb4be3ea54c0a4db41b7d77ceaa"
+          }
+        },
+        {
+          "client_id": "801723447148-t1uj2k21gp6lhdt47t7tajg35m5l4nc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBQ9A1x0nNumCwGuzeOFtn_v2lBhotNEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801723447148-t1uj2k21gp6lhdt47t7tajg35m5l4nc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
